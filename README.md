@@ -13,6 +13,29 @@ Config your api and create methods.
 
 Config if its a vip method or not
 
+How to run:
+
+Windows: 
+
+Open cmd in the folder then write: 
+pip install discord.py
+pip install aiohttp
+pip install sqlite3
+Now start the bot by:
+python bot.py
+or for other verison of python 
+python3 bot.py
+_
+Linux:
+sudo apt update
+sudo apt install python3 python3-pip python3-venv
+cd your desktop and your bot name 
+python3 -m venv bot_env
+source bot_env/bin/activate
+pip install discord.py aiohttp
+python3 bot.py
+
+
 infomation:
 
 There were som mistakes that i couldt not fix so ai fixet some mistakes
