@@ -1,45 +1,16 @@
 # Discord-ddos-bot
 Discord bot for apis adding
 
-How to setup:
+Please read setup.txt if you cant setup the bot correctly 
 
-Config your bot token 
-
-Config your status channel 
-
-Config your Superadmin 
-
-Config your api and create methods.
-
-Config if its a vip method or not
-
-How to run:
-
-Windows: 
-
-Open cmd in the folder then write: 
-pip install discord.py
-pip install aiohttp
-pip install sqlite3
-Now start the bot by:
-python bot.py
-or for other verison of python 
-python3 bot.py
-_
-Linux:
-sudo apt update,
-sudo apt install python3, python3-pip python3-venv,
-cd your desktop and your bot name,
-python3 -m venv bot_env,
-source bot_env/bin/activate,
-pip install discord.py aiohttp,
-python3 bot.py
-
-
-infomation:
+_____
 
 There were som mistakes that i couldt not fix so ai fixet some mistakes
 
 But a lot is self made
+
+This is for learning not for illegal activity
+
+Have a nice day brother
 
 Made by Sofus...
