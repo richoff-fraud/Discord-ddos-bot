@@ -27,12 +27,12 @@ or for other verison of python
 python3 bot.py
 _
 Linux:
-sudo apt update
-sudo apt install python3 python3-pip python3-venv
-cd your desktop and your bot name 
-python3 -m venv bot_env
-source bot_env/bin/activate
-pip install discord.py aiohttp
+sudo apt update,
+sudo apt install python3, python3-pip python3-venv,
+cd your desktop and your bot name,
+python3 -m venv bot_env,
+source bot_env/bin/activate,
+pip install discord.py aiohttp,
 python3 bot.py
 
 
